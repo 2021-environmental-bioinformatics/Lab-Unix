@@ -1,0 +1,393 @@
+Year	Author	Book	Citation
+2000	Tomie dePaola	26 Fairmount Avenue	Honor
+1934	Wanda Gág	ABC Bunny	Honor
+1977	William Steig	Abel's Island	Honor
+1951	Clara Ingram Judson	Abraham Lincoln, Friend of the People	Honor
+1945	Genevieve Foster	Abraham Lincoln's World	Honor
+2003	Ann M. Martin	A Corner of the Universe	Honor
+1965	Irene Hunt	Across Five Aprils	Honor
+1943	Elizabeth Gray Vining	Adam of the Road	Winner
+1930	Jeanette Eaton	A Daughter of the Seine: The Life of Madame Roland	Honor
+1987	Cynthia Rylant	A Fine White Dust	Honor
+1990	Janet Taylor Lisle	Afternoon of the Elves	Honor
+1988	Norma Fox Mazer	After the Rain	Honor
+2009	Jacqueline Woodson	After Tupac & D Foster	Honor
+1980	Joan Blos	A Gathering of Days: A New England Girl's Journal	Winner
+1997	Nancy Farmer	A Girl Named Disaster	Honor
+2005	Gennifer Choldenko	Al Capone Does My Shirts	Honor
+1954	Claire Huchet Bishop	All Alone	Honor
+1936	Armstrong Sperry	All Sail Set: A Romance of the Flying Cloud	Honor
+1959	Meindert DeJong	Along Came A Dog	Honor
+1999	Richard Peck	A Long Way from Chicago	Honor
+1960	Gerald W. Johnson	America Is Born: A History for Peter	Honor
+1961	Gerald W. Johnson	America Moves Forward: A History for Peter	Honor
+1952	Elizabeth Baity	Americans Before Columbus	Honor
+1951	Elizabeth Yates	Amos Fortune, Free Man	Winner
+2004	Jim Murphy	An American Plague: The True and Terrifying Story of the Yellow Fever Epidemic of 1793	Honor
+1954	Joseph Krumgold	...And Now Miguel	Winner
+1972	Miska Miles	Annie and the Old One	Honor
+1978	Jamake Highwater	Anpao: An American Indian Odyssey	Honor
+1934	Ann Kyle	Apprentice of Florence	Honor
+1981	Madeleine L'Engle	A Ring of Endless Light	Honor
+2002	Linda Sue Park	A Single Shard	Winner
+1984	Cynthia Voigt	A Solitary Blue	Honor
+1977	Nancy Bond	A String in the Harp	Honor
+1937	Constance Rourke	Audubon	Honor
+1982	Nancy Willard	A Visit to William Blake's Inn	Winner
+1963	Madeleine L'Engle	A Wrinkle in Time	Winner
+2001	Richard Peck	A Year Down Yonder	Winner
+1955	James Ullman	Banner in the Sky	Honor
+2001	Kate DiCamillo	Because of Winn-Dixie	Honor
+1997	Ruth White	Belle Prater's Boy	Honor
+1962	Mary Stolz	Belling The Tiger	Honor
+1951	Mabel Leigh Hunt	Better Known as Johnny Appleseed	Honor
+1946	Christine Weston	Bhimsa, the Dancing Bear	Honor
+1947	Mary & Conrad Buff	Big Tree	Honor
+1953	Genevieve Foster	Birthdays of Freedom, Vol. 1	Honor
+1957	Marguerite de Angeli	Black Fox of Lorne	Honor
+1941	Doris Gates	Blue Willow	Honor
+2013	Steve Sheinkin	Bomb: The Race to Build—and Steal—the World’s Most Dangerous Weapon	Honor
+1932	Eunice Tietjens	Boy of the South Seas	Honor
+1940	Stephen W. Meader	Boy with a Pack	Honor
+2012	Eugene Yelchin	Breaking Stalin's Nose	Honor
+1978	Katherine Paterson	Bridge to Terabithia	Winner
+1938	Mabel Robinson	Bright Island	Honor
+2000	Christopher Paul Curtis	Bud, Not Buddy	Winner
+1940	Laura Ingalls Wilder	By the Shores of Silver Lake	Honor
+1936	Carol Ryrie Brink	Caddie Woodlawn	Winner
+1932	Rachel Field	Calico Bush	Honor
+1941	Armstrong Sperry	Call It Courage	Winner
+1956	Jean Lee Latham	Carry On, Mr. Bowditch	Winner
+2002	Marilyn Nelson	Carver: A Life In Poems	Honor
+1995	Karen Cushman	Catherine, Called Birdy	Honor
+1922	Bernard Marshall	Cedric the Forester	Honor
+1953	E. B. White	Charlotte's Web	Honor
+1933	Nora Burglon	Children of the Soil: A Story of Scandinavia	Honor
+1959	Francis Kalnay	Chucaro: Wild Pony of the Pampa	Honor
+2010	Phillip Hoose	Claudette Colvin: Twice Towards Justice	Honor
+1929	Cornelia Meigs	Clearing Weather	Honor
+1986	Rhoda Blumberg	Commodore Perry In the Land of the Shogun	Honor
+1994	Jane Leslie Conly	Crazy Lady	Honor
+2003	Avi	Crispin: The Cross of Lead	Winner
+2006	Lynne Rae Perkins	Criss Cross	Winner
+1940	James Daugherty	Daniel Boone	Winner
+2011	Joyce Sidman	Dark Emperor and Other Poems of the Night	Honor
+1949	Louise Rankin	Daughter of the Mountains	Honor
+1935	Constance Rourke	Davy Crockett	Honor
+1935	Hilda van Stockum	Day On Skates: The Story of a Dutch Picnic	Honor
+2012	Jack Gantos	Dead End in Norvelt	Winner
+1984	Beverly Cleary	Dear Mr. Henshaw	Winner
+1983	Cynthia Voigt	Dicey's Song	Winner
+1935	Monica Shannon	Dobry	Winner
+1983	William Steig	Doctor De Soto	Honor
+1986	Gary Paulsen	Dogsong	Honor
+1928	Caroline Snedeker	Downright Dencey	Honor
+1942	Eva Roe Gaggin	Down Ryton Water	Honor
+1994	Laurence Yep	Dragon's Gate	Honor
+1976	Laurence Yep	Dragonwings	Honor
+1994	Russell Freedman	Eleanor Roosevelt: A Life of Discovery	Honor
+2008	Christopher Paul Curtis	Elijah of Buxton	Honor
+1998	Gail Carson Levine	Ella Enchanted	Honor
+1971	Sylvia Engdahl	Enchantress From the Stars	Honor
+2002	Polly Horvath	Everything on a Waffle	Honor
+2008	Jacqueline Woodson	Feathers	Honor
+1975	Ellen Raskin	Figgs & Phantoms	Honor
+1931	Anne Parrish	Floating Island	Honor
+1944	Julia Sauer	Fog Magic	Honor
+1973	Arnold Lobel	Frog and Toad Together	Honor
+1968	E. L. Konigsburg	From the Mixed-Up Files of Mrs. Basil E. Frankweiler	Winner
+1962	Edwin Tunis	Frontier Living	Honor
+1951	Jeanette Eaton	Gandhi, Fighter Without a Sword	Honor
+1931	Herbert Best	Garram the Hunter: A Boy of the Hill Tribes	Honor
+1928	Dhan Gopal Mukerji	Gay Neck, the Story of a Pigeon	Winner
+1950	Genevieve Foster	George Washington	Honor
+1942	Genevieve Foster	George Washington's World	Honor
+2000	Audrey Couloumbis	Getting Near to Baby	Honor
+1952	Eleanor Estes	Ginger Pye	Winner
+1934	Agnes Hewes	Glory of the Seas	Honor
+1958	Elizabeth Enright	Gone-Away Lake	Honor
+2008	Laura Amy Schlitz	Good Masters! Sweet Ladies! Voices from a Medieval Village	Winner
+1983	Paul Fleischman	Graven Images	Honor
+1988	Gary Paulsen	Hatchet	Honor
+2007	Kirby Larson	Hattie Big Sky	Honor
+1943	Mabel Leigh Hunt	Have You Seen Tom Thumb?	Honor
+2011	Margi Preus	Heart of a Samurai	Honor
+1939	Phyllis Crawford	Hello the Boat!	Honor
+2006	Susan Campbell Bartoletti	Hitler Youth: Growing Up in Hitler's Shadow	Honor
+1930	Rachel Field	Hitty, Her First Hundred Years	Winner
+1999	Louis Sachar	Holes	Winner
+1983	Jean Fritz	Homesick: My Own Story	Honor
+1936	Phil Stong	Honk, the Moose	Honor
+2003	Carl Hiaasen	Hoot	Honor
+2001	Joan Bauer	Hope Was Here	Honor
+1954	Meindert DeJong	Hurry Home, Candy	Honor
+1966	Elizabeth Borton de Treviño	I, Juan de Pareja	Winner
+1972	Allan W. Eckert	Incident at Hawk's Hill	Honor
+1942	Lois Lenski	Indian Captive: The Story of Mary Jemison	Honor
+2012	Thanhha Lai	Inside Out & Back Again	Honor
+1989	Virginia Hamilton	In The Beginning: Creation Stories from Around the World	Honor
+1934	Cornelia Meigs	Invincible Louisa	Winner
+1961	Scott O'Dell	Island of the Blue Dolphins	Winner
+1964	Emily Cheney Neville	It's Like This, Cat	Winner
+1981	Katherine Paterson	Jacob Have I Loved	Winner
+1932	Marjorie Hill Allee	Jane's Island	Honor
+1968	E. L. Konigsburg	Jennifer, Hecate, Macbeth, William McKinley, and Me, Elizabeth	Honor
+2001	Jack Gantos	Joey Pigza Loses Control	Honor
+1944	Esther Forbes	Johnny Tremain	Winner
+1970	Mary Q. Steele	Journey Outside	Honor
+1989	Paul Fleischman	Joyful Noise: Poems for Two Voices	Winner
+1973	Jean Craighead George	Julie of the Wolves	Winner
+1946	Marguerite Henry	Justin Morgan Had a Horse	Honor
+1950	Rutherford George Montgomery	Kildee House	Honor
+1949	Marguerite Henry	King of the Wind	Winner
+2005	Cynthia Kadohata	Kira-Kira	Winner
+1971	Natalie Babbitt	Knee-Knock Rise	Honor
+1939	Jeanette Eaton	Leader By Destiny: George Washington, Man and Patriot	Honor
+1985	Mavis Jukes	Like Jake and Me	Honor
+1948	Carolyn Treffinger	Li Lun, Lad of Courage	Honor
+1998	Patricia Reilly Giff	Lily's Crossing	Honor
+1988	Russell Freedman	Lincoln: A Photobiography	Winner
+1930	Hildegarde Swift	Little Blacknose: The Story of a Pioneer	Honor
+1942	Laura Ingalls Wilder	Little Town on the Prairie	Honor
+2005	Gary D. Schmidt	Lizzie Bright and the Buckminster Boy	Honor
+1945	Jeanette Eaton	Lone Journey: The Life of Roger Williams	Honor
+1954	Mary & Conrad Buff	Magic Maize	Honor
+1991	Jerry Spinelli	Maniac Magee	Winner
+1975	Virginia Hamilton	M. C. Higgins, the Great	Winner
+1931	Elizabeth Janet Gray	Meggy MacIntosh	Honor
+1956	Katherine Shippen	Men, Microscopes, and Living Things	Honor
+1963	Olivia Coolidge	Men of Athens	Honor
+1929	Wanda Gág	Millions of Cats	Honor
+1952	Holling C. Holling	Minn of the Mississippi	Honor
+1957	Virginia Sorensen	Miracles on Maple Hill	Winner
+1947	Carolyn Sherwin Bailey	Miss Hickory	Winner
+1993	Cynthia Rylant	Missing May	Winner
+1948	Marguerite Henry	Misty of Chincoteague	Honor
+1953	Eloise Jarvis McGraw	Moccasin Trail	Honor
+2011	Clare Vanderpool	Moon Over Manifest	Winner
+1944	Elizabeth Yates	Mountain Born	Honor
+1931	Julie Davis Adams	Mountains are Free	Honor
+1957	Clara Ingram Judson	Mr. Justice Holmes	Honor
+1939	Richard & Florence Atwater	Mr. Popper's Penguins	Honor
+1972	Robert C. O'Brien	Mrs. Frisby and the Rats of NIMH	Winner
+1975	James Lincoln Collier & Christopher Collier	My Brother Sam Is Dead	Honor
+1949	Ruth S. Gannett	My Father's Dragon	Honor
+1960	Jean Craighead George	My Side of the Mountain	Honor
+1941	Anna Gertrude Hall	Nansen	Honor
+1946	Katherine Shippen	New Found World	Honor
+1934	Sarah Schmidt	New Land	Honor
+1925	Annie Carroll Moore	Nicholas: A Manhattan Christmas Story	Honor
+1939	Valenti Angelo	Nino	Honor
+1992	Avi	Nothing But The Truth: a Documentary Novel	Honor
+1990	Lois Lowry	Number the Stars	Winner
+1961	Jack Schaefer	Old Ramon	Honor
+1957	Fred Gipson	Old Yeller	Honor
+2004	Kevin Henkes	Olive's Ocean	Honor
+2011	Rita Williams-Garcia	One Crazy Summer	Honor
+1985	Paula Fox	One-Eyed Cat	Honor
+1960	Joseph Krumgold	Onion John	Winner
+1987	Marion Dane Bauer	On My Honor	Honor
+1938	Laura Ingalls Wilder	On the Banks of Plum Creek	Honor
+1931	Alice Lide and Margaret Johansen	Ood-Le-Uk the Wanderer	Honor
+1970	Sulamith Ish-Kishor	Our Eddie	Honor
+2000	Jennifer L. Holm	Our Only May Amelia	Honor
+1998	Karen Hesse	Out of the Dust	Winner
+1932	Eloise Lownsbery	Out of the Flame	Honor
+1935	Elizabeth Seeger	Pageant of Chinese History	Honor
+1948	Claire Huchet Bishop	Pancakes-Paris	Honor
+1938	James Cloyd Bowman	Pecos Bill: The Greatest Cowboy of All Time	Honor
+1939	Elizabeth Janet Gray	Penn	Honor
+2007	Jennifer L. Holm	Penny from Heaven	Honor
+1975	Bette Greene	Philip Hall Likes Me, I Reckon Maybe	Honor
+1937	Lois Lenski	Phoebe Fairchild: Her Book	Honor
+2003	Patricia Reilly Giff	Pictures of Hollis Woods	Honor
+1930	Elizabeth Miller	Pran of Albania	Honor
+2006	Shannon Hale	Princess Academy	Honor
+1931	Ralph Hubbard	Queer Person	Honor
+1945	Robert Lawson	Rabbit Hill	Winner
+1978	Beverly Cleary	Ramona and Her Father	Honor
+1982	Beverly Cleary	Ramona Quimby, Age 8	Honor
+1964	Sterling North	Rascal	Honor
+1953	Ann Weil	Red Sails to Capri	Honor
+1958	Harold Keith	Rifles for Watie	Winner
+1937	Ruth Sawyer	Roller Skates	Winner
+1977	Mildred Taylor	Roll of Thunder, Hear My Cry	Winner
+1944	Eleanor Estes	Rufus M.	Honor
+2007	Cynthia Lord	Rules	Honor
+1929	Grace Moon	Runaway Papoose	Honor
+1940	Mabel Robinson	Runner of the Mountain Tops: The Life of Louis Agassiz	Honor
+1986	Patricia MacLachlan	Sarah, Plain and Tall	Winner
+2009	Ingrid Law	Savvy	Honor
+1989	Walter Dean Myers	Scorpions	Honor
+1949	Holling C. Holling	Seabird	Honor
+1953	Ann Nolan Clark	Secret of the Andes	Winner
+1990	Suzanne Fisher Staples	Shabanu, Daughter of the Wind	Honor
+1965	Maia Wojciechowska	Shadow of a Bull	Winner
+1954	Meindert DeJong	Shadrach	Honor
+1926	Arthur Bowie Chrisman	Shen of the Sea	Winner
+1992	Phyllis Reynolds Naylor	Shiloh	Winner
+2006	Jacqueline Woodson	Show Way	Honor
+1971	Scott O'Dell	Sing Down the Moon	Honor
+1927	Will James	Smoky the Cow Horse	Winner
+1993	Walter Dean Myers	Somewhere in the Darkness	Honor
+1950	Walter & Marion Havighurst	Song of The Pines: A Story of Norwegian Lumbering in Wisconsin	Honor
+1970	William H. Armstrong	Sounder	Winner
+1931	Agnes Hewes	Spice and the Devil's Cave	Honor
+2013	Laura Amy Schlitz	Splendors and Glooms	Honor
+1949	Arna Bontemps	Story of the Negro	Honor
+1946	Lois Lenski	Strawberry Girl	Winner
+1984	Kathryn Lasky	Sugaring Time	Honor
+1971	Betsy Byars	Summer of the Swans	Winner
+2003	Stephanie S. Tolan	Surviving the Applewhites	Honor
+1983	Virginia Hamilton	Sweet Whispers, Brother Rush	Honor
+1933	Cornelia Meigs	Swift Rivers	Honor
+1934	Elsie Singmaster	Swords of Steel	Honor
+1925	Charles Finger	Tales from Silver Lands	Winner
+1966	Randall Jarrell	The Animal Family	Honor
+1952	Mary & Conrad Buff	The Apple and the Arrow	Honor
+1947	Cyrus Fisher	The Avion My Uncle Flew	Honor
+1953	Alice Dalgliesh	The Bears on Hemlock Mountain	Honor
+1934	Padraic Colum	The Big Tree of Bunlahy: Stories of My Own Countryside	Honor
+1966	Lloyd Alexander	The Black Cauldron	Honor
+1968	Scott O'Dell	The Black Pearl	Honor
+1950	Catherine Coblentz	The Blue Cat of Castle Town	Honor
+1983	Robin McKinley	The Blue Sword	Honor
+1929	Grace Hallock	The Boy Who Was	Honor
+1962	Elizabeth George Speare	The Bronze Bow	Winner
+1931	Elizabeth Coatsworth	The Cat Who Went to Heaven	Winner
+1937	Agnes Hewes	The Codfish Musket	Honor
+1957	Dorothy Rhoads	The Corn Grows Ripe	Honor
+1955	Alice Dalgliesh	The Courage of Sarah Noble	Honor
+1948	Harold Courlander	The Cow-Tail Switch, and Other West African Stories	Honor
+1961	George Selden	The Cricket in Times Square	Honor
+1924	Charles Hawes	The Dark Frigate	Winner
+1974	Susan Cooper	The Dark Is Rising	Honor
+1931	Alida Malkus	The Dark Star of Itza: The Story of A Pagan Princess	Honor
+1993	Patricia McKissack	The Dark-thirty: Southern Tales of the Supernatural	Honor
+1952	Nicholas Kalashnikoff	The Defender	Honor
+1950	Marguerite de Angeli	The Door in the Wall	Winner
+1925	Anne Parrish	The Dream Coach	Honor
+1995	Nancy Farmer	The Ear, the Eye and the Arm	Honor
+1968	Zilpha Keatley Snyder	The Egypt Game	Honor
+2010	Jacqueline Kelly	The Evolution of Calpurnia Tate	Honor
+1932	Dorothy P. Lathrop	The Fairy Circus	Honor
+1959	Natalie Savage Carlson	The Family Under the Bridge	Honor
+1968	Isaac Bashevis Singer	The Fearsome Inn	Honor
+1981	Jane Langton	The Fledgling	Honor
+1934	Caroline Snedeker	The Forgotten Daughter	Honor
+1960	Carol Kendall	The Gammage Cup	Honor
+1994	Lois Lowry	The Giver	Winner
+1937	Ludwig Bemelmans	The Golden Basket	Honor
+1922	Padraic Colum	The Golden Fleece and The Heroes Who Lived Before Achilles	Honor
+1962	Eloise Jarvis McGraw	The Golden Goblet	Honor
+1956	Jennie Lindquist	The Golden Name Day	Honor
+1936	Kate Seredy	The Good Master	Honor
+2009	Neil Gaiman	The Graveyard Book	Winner
+1996	Jim Murphy	The Great Fire	Honor
+1979	Katherine Paterson	The Great Gilly Hopkins	Honor
+1922	Charles Hawes	The Great Quest	Honor
+1958	Robert Lawson	The Great Wheel	Honor
+1976	Susan Cooper	The Grey King	Winner
+1972	Zilpha Keatley Snyder	The Headless Cupid	Honor
+1947	William Maxwell	The Heavenly Tenants	Honor
+1985	Robin McKinley	The Hero and the Crown	Winner
+1947	Eleanor Jewett	The Hidden Treasure of Glaston	Honor
+2007	Susan Patron	The Higher Power of Lucky	Winner
+1969	Lloyd Alexander	The High King	Winner
+1958	Mari Sandoz	The Horsecatcher	Honor
+1957	Meindert DeJong	The House of Sixty Fathers	Honor
+2003	Nancy Farmer	The House of the Scorpion	Honor
+1945	Eleanor Estes	The Hundred Dresses	Honor
+1976	Sharon Bell Mathis	The Hundred Penny Box	Honor
+1967	Mary Hays Weik	The Jazz Man	Honor
+1930	Marian Hurd McNeely	The Jumping-Off Place	Honor
+1967	Scott O'Dell	The King's Fifth	Honor
+1952	Julia Sauer	The Light at Tern Rock	Honor
+1964	Ester Wier	The Loner	Honor
+1941	Laura Ingalls Wilder	The Long Winter	Honor
+1970	Janet Gaylord Moore	The Many Ways of Seeing: An Introduction to the Pleasures of Art	Honor
+1942	Walter D. Edmonds	The Matchlock Gun	Winner
+1943	Eleanor Estes	The Middle Moffat	Honor
+1996	Karen Cushman	The Midwife's Apprentice	Winner
+1997	Eloise McGraw	The Moorchild	Honor
+2010	Rodman Philbrick	The Mostly True Adventures of Homer P. Figg	Honor
+1946	Florence Crannell Means	The Moved-Outers	Honor
+1985	Bruce Brooks	The Moves Make the Man	Honor
+1966	Mary Stolz	The Noonday Friends	Honor
+1954	Clara Ingram Judson	Theodore Roosevelt, Fighting Patriot	Honor
+1922	William Bowen	The Old Tobacco Shop: A True Account of What Befell a Little Boy in Search of Adventure	Honor
+2013	Katherine Applegate	The One and Only Ivan	Winner
+1975	Elizabeth Marie Pope	The Perilous Gard	Honor
+1959	William O. Steele	The Perilous Road	Honor
+1929	John Bennett	The Pigtail of Ah Lee Ben Loo	Honor
+1972	Virginia Hamilton	The Planet of Junior Brown	Honor
+1948	Catherine Besterman	The Quaint and Curious Quest of Johnny Longfoot	Honor
+1933	Hildegarde Swift	The Railroad To Freedom: A Story of the Civil War	Honor
+1980	David Kherdian	The Road from Home: The Story of an Armenian Girl	Honor
+1956	Marjorie Kinnan Rawlings	The Secret River	Honor
+1944	Laura Ingalls Wilder	These Happy Golden Years	Honor
+1984	Elizabeth George Speare	The Sign of the Beaver	Honor
+1945	Alice Dalgliesh	The Silver Pencil	Honor
+1940	Kate Seredy	The Singing Tree	Honor
+1974	Paula Fox	The Slave Dancer	Winner
+1951	Anne Parrish	The Story of Appleby Capple	Honor
+1922	Hendrik Willem van Loon	The Story of Mankind	Winner
+2009	Margarita Engle	The Surrender Tree: Poems of Cuba's Struggle for Freedom	Honor
+2004	Kate DiCamillo	The Tale of Despereaux	Winner
+1931	Ella Young	The Tangle-Coated Horse and Other Tales	Honor
+1997	Megan Whalen Turner	The Thief	Honor
+1972	Ursula K. Le Guin	The Tombs of Atuan	Honor
+1991	Avi	The True Confessions of Charlotte Doyle	Honor
+1929	Eric P. Kelly	The Trumpeter of Krakow	Winner
+1948	William Pène du Bois	The Twenty-One Balloons	Winner
+2009	Kathi Appelt	The Underneath	Honor
+1973	Johanna Reiss	The Upstairs Room	Honor
+1997	E. L. Konigsburg	The View from Saturday	Winner
+2005	Russell Freedman	The Voice that Challenged a Nation: Marian Anderson and the Struggle for Equal Rights	Honor
+1926	Padraic Colum	The Voyagers: Being Legends and Romances of Atlantic Discovery	Honor
+1923	Hugh Lofting	The Voyages of Doctor Dolittle	Winner
+2001	Sharon Creech	The Wanderer	Honor
+1996	Christopher Paul Curtis	The Watsons Go to Birmingham: 1963	Honor
+2008	Gary D. Schmidt	The Wednesday Wars	Honor
+1979	Ellen Raskin	The Westing Game	Winner
+1955	Meindert DeJong	The Wheel on the School	Winner
+1987	Sid Fleischman	The Whipping Boy	Winner
+1938	Kate Seredy	The White Stag	Winner
+1922	Cornelia Meigs	The Windy Hill	Honor
+1990	Gary Paulsen	The Winter Room	Honor
+1984	Bill Brittain	The Wish Giver	Honor
+1973	Zilpha Keatley Snyder	The Witches of Worm	Honor
+1959	Elizabeth George Speare	The Witch of Blackbird Pond	Winner
+1928	Ella Young	The Wonder Smith and His Son	Honor
+1992	Russell Freedman	The Wright Brothers: How They Invented the Airplane	Honor
+1939	Elizabeth Enright	Thimble Summer	Winner
+1963	Sorche Nic Leodhas	Thistle and Thyme: Tales and Legends from Scotland	Honor
+2013	Sheila Turnage	Three Times Lucky	Honor
+1969	Julius Lester	To Be a Slave	Honor
+1929	Elinor Whitney	Tod of the Fens	Honor
+1958	Leo Gurko	Tom Paine, Freedom's Apostle	Honor
+1950	Rebecca Caudill	Tree of Freedom	Honor
+1932	Mary Gould Davis	Truce of the Wolf and Other Tales of Old Italy	Honor
+2011	Jennifer L. Holm	Turtle in Paradise	Honor
+1967	Irene Hunt	Up a Road Slowly	Winner
+1982	Aranka Siegal	Upon the Head of the Goat: A Childhood in Hungary 1939–1944	Honor
+1930	Julia Davis Adams	Vaino, A Boy of New Finland	Honor
+1987	Patricia Lauber	Volcano: The Eruption and Healing of Mount St. Helens	Honor
+1995	Sharon Creech	Walk Two Moons	Winner
+1932	Laura Adams Armer	Waterless Mountain	Winner
+1993	Bruce Brooks	What Hearts	Honor
+1996	Carolyn Coman	What Jamie Saw	Honor
+1969	Isaac Bashevis Singer	When Shlemiel Went to Warsaw and Other Stories	Honor
+2010	Rebecca Stead	When You Reach Me	Winner
+2010	Grace Lin	Where the Mountain Meets the Moon	Honor
+1937	Idwal Jones	Whistler's Van	Honor
+2006	Alan Armstrong	Whittington	Honor
+1934	Erik Berry	Winged Girl of Knossos	Honor
+1937	Margery Williams	Winterbound	Honor
+1947	Nancy Barnes	Wonderful Year	Honor
+1998	Jerry Spinelli	Wringer	Honor
+1996	Carol Fenner	Yolonda's Genius	Honor
+1933	Elizabeth Foreman Lewis	Young Fu of the Upper Yangtze	Winner
+1941	Mary Jane Carr	Young Mac of Fort Vancouver	Honor
+1936	Elizabeth Janet Gray	Young Walter Scott	Honor
+1967	Isaac Bashevis Singer	Zlateh The Goat and Other Stories	Honor
